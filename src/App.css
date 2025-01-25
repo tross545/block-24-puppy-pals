@@ -1,0 +1,22 @@
+.box {
+  border: 3px solid rgb(7, 95, 101);
+  background-color: rgb(213, 206, 189);
+  text-align: center;
+}
+
+h1{
+  color: rgb(5, 30, 32);
+}
+
+ul{
+  list-style-type: none;
+  background-color: rgb(148, 136, 108);
+}
+
+h2 {
+  background-color: rgb(148, 136, 108);
+}
+
+.id{
+  font-size: 18px;
+}
